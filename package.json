@@ -1,0 +1,14 @@
+{
+  "name": "opessoal",
+  "version": "1.0.0",
+  "description": "ô pessoal generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adilson Schmitt Junior",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.samplesize": "^4.2.0"
+  }
+}
