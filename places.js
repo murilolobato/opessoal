@@ -50,6 +50,21 @@ const places = [
         the: 'o',
         name: 'banheiro feminino',
         in: 'no'
+    },
+    {
+        the: 'a',
+        name: 'mesa',
+        in: 'na'
+    },
+    {
+        the: 'a',
+        name: 'gaveta',
+        in: 'na'
+    },
+    {
+        the: 'o',
+        name: 'slack',
+        in: 'no'
     }
 ];
 
